@@ -1,0 +1,28 @@
+/* body */
+body {
+    background-color: var(--color-bg-main);
+    font-family: 'Inter', sans-serif;
+}
+
+/* Header - nav - links */
+
+.navAlinks::before {
+    content: '';
+    position: absolute;
+
+    bottom: -10px;
+    left: 50%;
+    transform: translateX(-50%);
+
+    width: 0;
+    height: 2px;
+
+    background-color: rgb(125, 173, 125);
+    transition: width 0.3s ease;
+}
+
+.navAlinks:hover::before {
+    width: 100%;
+}
+/*     font-family: cursive;
+ */
