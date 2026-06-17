@@ -26,3 +26,25 @@ body {
 }
 /*     font-family: cursive;
  */
+
+/* Logos - parceiros */
+.carousel-track {
+    display: flex;
+    width: max-content;
+    animation: scroll 25s linear infinite;
+    will-change: transform;
+}
+
+.carousel-wrapper:hover .carousel-track {
+    animation-play-state: paused;
+}
+
+@keyframes scroll {
+    from {
+        transform: translateX(0);
+    }
+
+    to {
+        transform: translateX(-50%);
+    }
+}

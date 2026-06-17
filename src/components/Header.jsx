@@ -1,6 +1,6 @@
 export default function Header() {
     return (
-        <header className="bg-bg-card flex items-center justify-between text-amber-50 m-7 p-5 rounded-bl-3xl rounded-tl-3xl border-r-2 border-green-300 ">
+        <header className="fixed  top-5 left-1/2  -translate-x-1/2  w-[90%] z-999 bg-bg-surface-input flex items-center justify-between text-amber-50 p-5 rounded-bl-3xl rounded-tl-3xl border-r-2 border-green-300">
 
             <div className="w-full px-10 flex items-center justify-between">
 
