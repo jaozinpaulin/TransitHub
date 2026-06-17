@@ -6,6 +6,21 @@ O projeto foi criado com o objetivo de praticar desenvolvimento front-end atrav�
 
 ---
 
+## 📷 Preview
+
+### Hero Section
+
+![Hero](src/components/assets/imgs/hero.png)
+
+### Parceiros e Ofertas
+
+![Parceiros](src/components/assets/imgs/parceirosCardViagem.png)
+
+### Banner App + Como Funciona
+
+![Banner](src/components/assets/imgs/comoFuncionaBannerApp.png)--
+
+
 ## ✨ Sobre o Projeto
 
 O TransitHub permite que os usuários encontrem opções de viagem de forma rápida e intuitiva.
@@ -82,20 +97,6 @@ Este projeto faz parte da minha jornada como desenvolvedor front-end e tem como 
 - Aplicação completa em React
 
 ---
-
-## 📷 Preview
-
-### Hero Section
-
-![Hero](src/components/assets/imgs/hero.png)
-
-### Parceiros e Ofertas
-
-![Parceiros](src/components/assets/imgs/parceirosCardViagem.png)
-
-### Banner App + Como Funciona
-
-![Banner](src/components/assets/imgs/comoFuncionaBannerApp.png)--
 
 ## 📌 Autor
 
